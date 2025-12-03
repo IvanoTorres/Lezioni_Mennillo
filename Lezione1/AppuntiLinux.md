@@ -4,8 +4,10 @@
 
 
 # Settare ambiente Linux per Git
-
-
+1. Installare git sulla macchina con `sudo apt install git`
+2. Settare username e password di github con i seguenti comandi
+`git config --global user.name "tuoUsernameGithub"`
+`git config --global user.email "tuoEmaiGithub"`
 
 # AppuntiLinux
 
