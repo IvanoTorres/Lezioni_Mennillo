@@ -1,4 +1,5 @@
 ![Git Icona](./img/gattop.png)
+![Git Icona](./img/gattoX.png)
 
 # Settare ambiente Linux per Git
 
